@@ -2,18 +2,20 @@
 
 The binary search algorithm.
 
-<img src="./Resources/memes/theBiggestSin.jpg" alt="*theBiggestSin" width=450 target="_blank">
+<img src="./Resources/memes/theBiggestSin.jpg" alt="*theBiggestSin" width=450>
 
 ## Getting started
 
-    npm i; npm run start
+```bash
+npm i; npm run start
+```
 
 Testing with `vitest`
 
-    npm run test
+```bash
+npm run test
+```
 
 `NOTE:` You can just use **bun** to run *.ts* files without doing `npm i`.
 
-## Until next time...
-
-## ;)
+Until next time.)
